@@ -35,7 +35,7 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 <ul>
     <li>O sistema deverá ser capaz de surportar diversas funcionalidades.</li>
     <li>O sistema deverá oferecer a possibilidade, dentro de cada módulo, de consultar consultar os dados registrados no banco de dados.</li>
-    <li>O sistema deverá permitir a customização da interce pelo usuário.</li>
+    <li>O sistema deverá permitir a customização da interface pelo usuário.</li>
     <li>O sistema deverá ser capaz de permitir a criação de listas editáveis, respeitando as normas pré-estabelecidas, além de ser possível categorizar os elementos da lista ou a lista, verificar se o elemento já está cadastrado.</li>
     <li>O sistema deverá ser capaz de gerenciar as despesas, receitas, categorias, formas de pagamento, formas de recebimento, contas a pagar e a receber.</li>
 </ul>
