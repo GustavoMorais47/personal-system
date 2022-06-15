@@ -22,10 +22,10 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 ### :::::::::::::::::::::::::::: MÓDULOS ::::::::::::::::::::::::::::
 <p>Os módulos são um conjutos de funções que possuem a(as) mesma(as) característica(as)</p>
 
-- [] Gerenciamento de listas
-- [] Gerenciamento de despesas e receitas
-- [] Gerenciamento de automóveis
-- [] Formulário de Contato
+- [ ] Gerenciamento de listas
+- [ ] Gerenciamento de despesas e receitas
+- [ ] Gerenciamento de automóveis
+- [ ] Formulário de Contato
 
 ### :::::::::::::::::::::::::::: REFERÊNCIAS ::::::::::::::::::::::::::::
 <ul>
