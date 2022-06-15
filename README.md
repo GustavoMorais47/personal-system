@@ -4,19 +4,40 @@
 como objetivo conter as funções e atividades realizadas no dia a dia pelo usuário.</p>
 <p>:exclamation: Sistema desenvolvido por estudantes!</p>
 
-### :::::::::::::::::::::::::::: REQUISITOS ::::::::::::::::::::::::::::
-#### Requisito do sistema
-<p></p>
+### :::::::::::::::::::::::::::: SUMÁRIO ::::::::::::::::::::::::::::
+
+<ol>
+    <a href='https://github.com/GustavoMorais47/personal-system#-sobre-'><li>Sobre</li></a>
+    <a href='https://github.com/GustavoMorais47/personal-system#-sumário-'><li>Sumário</li></a>
+    <a href='https://github.com/GustavoMorais47/personal-system#-qualidade-'><li>Qualidade</li></a>
+    <a href='https://github.com/GustavoMorais47/personal-system#-requisitos-'><li>Requisitos</li></a>
+    <a href='https://github.com/GustavoMorais47/personal-system#-módulos-'><li>Módulos</li></a>
+    <a href='https://github.com/GustavoMorais47/personal-system#-referência-'><li>Referência</li></a>
+</ol>
+
+### :::::::::::::::::::::::::::: QUALIDADE ::::::::::::::::::::::::::::
+
+#### Características
+
 <ul>
-    <li></li>
+    <li>Confiabilidade</li>
+    <li>Usabilidade</li>
+    <li>Eficiência</li>
+    <li>Manutenibilidade</li>
+    <li>Portabilidade</li>
 </ul>
 
-#### Requisito do produto
-<p></p>
+### :::::::::::::::::::::::::::: REQUISITOS ::::::::::::::::::::::::::::
+#### Requisitos Funcionais
+
 <ul>
-    <li>Usabilidade</li>
-    <li>Portabilidade</li>
-    <li>Confiabilidade</li>
+    
+</ul>
+
+#### Requisitos Não Funcionais
+
+<ul>
+
 </ul>
 
 ### :::::::::::::::::::::::::::: MÓDULOS ::::::::::::::::::::::::::::
@@ -29,7 +50,8 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 
 ### :::::::::::::::::::::::::::: REFERÊNCIAS ::::::::::::::::::::::::::::
 <ul>
-    <a href='https://github.com/ikatyang/emoji-cheat-sheet'><li>Emojis</li></a>
-    <a href='https://blog.da2k.com.br/2015/02/08/aprenda-markdown/'><li>Markdown</li></a>
+    <a href='https://github.com/ikatyang/emoji-cheat-sheet' target='_blank'><li>Emojis</li></a>
+    <a href='https://blog.da2k.com.br/2015/02/08/aprenda-markdown/' target='_blank'><li>Markdown</li></a>
+    <a href='http://www.bianchi.pro.br/edutec/qualsoft.php' target='_blank'><li>Qualidade de produtos de software</li></a>
 </ul>
 
