@@ -61,4 +61,4 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
     <a href='https://blog.da2k.com.br/2015/02/08/aprenda-markdown/' target='_blank'><li>Markdown</li></a>
     <a href='http://www.bianchi.pro.br/edutec/qualsoft.php' target='_blank'><li>Qualidade de produtos de software</li></a>
     <a href='https://www.tutorialspoint.com/pg/software_engineering/software_requirements.htm' target='_blank'><li>Requisitos de Software</li></a>
-</ul>
+</ul
