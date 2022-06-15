@@ -50,7 +50,7 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 <p>Módulo é a parte do sistema responsável por uma tarefa bem definida e que pode ser acoplado a um sistema para permitir executar a tarefa disponibilizada pelo módulo.</p>
 
 - [ ] Customização
-- [ ] Gerenciamento de Listas
+- [ ] Gerenciamento de listas
 - [ ] Gerenciamento Financeiro
 - [ ] Gerenciamento de Automóveis
 - [ ] Contato
