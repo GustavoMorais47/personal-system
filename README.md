@@ -60,8 +60,9 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 
 ### :::::::::::::::::::::::::::: REFERÊNCIAS ::::::::::::::::::::::::::::
 <ul>
-    <a href='https://github.com/ikatyang/emoji-cheat-sheet' target='_blank'><li>Emojis</li></a>
-    <a href='https://blog.da2k.com.br/2015/02/08/aprenda-markdown/' target='_blank'><li>Markdown</li></a>
-    <a href='http://www.bianchi.pro.br/edutec/qualsoft.php' target='_blank'><li>Qualidade de produtos de software</li></a>
-    <a href='https://www.tutorialspoint.com/pg/software_engineering/software_requirements.htm' target='_blank'><li>Requisitos de Software</li></a>
+    <a href='https://github.com/ikatyang/emoji-cheat-sheet'><li>Emojis</li></a>
+    <a href='https://blog.da2k.com.br/2015/02/08/aprenda-markdown/'><li>Markdown</li></a>
+    <a href='http://www.bianchi.pro.br/edutec/qualsoft.php'><li>Qualidade de produtos de software</li></a>
+    <a href='https://www.tutorialspoint.com/pg/software_engineering/software_requirements.htm'><li>Requisitos de Software</li></a>
+    <a href='https://www.youtube.com/watch?v=nEohtTFeNsM'><li>Youtube: Desenvolvimento Guiado por Testes: PORQUE e COMO aplicar</li></a>
 </ul
