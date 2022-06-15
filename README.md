@@ -34,6 +34,9 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 
 <ul>
     <li>O sistema deverá ser capaz de surportar diversas funcionalidades.</li>
+    <li>O sistema deverá oferecer a possibilidade, dentro de cada módulo, de consultar consultar os dados registrados no banco de dados.</li>
+    <li>O sistema deverá permitir a customização da interce pelo usuário.</li>
+    <li>O sistema deverá ser capaz de permitir a criação de listas editáveis, respeitando as normas pré-estabelecidas, além de ser possível categorizar os elementos da lista ou a lista, verificar se o elemento já está cadastrado.</li>
     <li>O sistema deverá ser capaz de gerenciar as despesas, receitas, categorias, formas de pagamento, formas de recebimento, contas a pagar e a receber.</li>
 </ul>
 
@@ -44,7 +47,7 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 </ul>
 
 ### :::::::::::::::::::::::::::: MÓDULOS ::::::::::::::::::::::::::::
-<p>Os módulos são um conjutos de funções que possuem a(as) mesma(as) característica(as)</p>
+<p>Módulo é a parte do sistema responsável por uma tarefa bem definida e que pode ser acoplado a um sistema para permitir executar a tarefa disponibilizada pelo módulo.</p>
 
 - [ ] Gerenciamento de listas
 - [ ] Gerenciamento financeiro
@@ -56,5 +59,6 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
     <a href='https://github.com/ikatyang/emoji-cheat-sheet' target='_blank'><li>Emojis</li></a>
     <a href='https://blog.da2k.com.br/2015/02/08/aprenda-markdown/' target='_blank'><li>Markdown</li></a>
     <a href='http://www.bianchi.pro.br/edutec/qualsoft.php' target='_blank'><li>Qualidade de produtos de software</li></a>
+    <a href='https://www.tutorialspoint.com/pg/software_engineering/software_requirements.htm' target='_blank'><li>Requisitos de Software</li></a>
 </ul>
 
