@@ -49,10 +49,11 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 ### :::::::::::::::::::::::::::: MÓDULOS ::::::::::::::::::::::::::::
 <p>Módulo é a parte do sistema responsável por uma tarefa bem definida e que pode ser acoplado a um sistema para permitir executar a tarefa disponibilizada pelo módulo.</p>
 
+- [ ] Customização
 - [ ] Gerenciamento de listas
 - [ ] Gerenciamento financeiro
 - [ ] Gerenciamento de automóveis
-- [ ] Formulário de Contato
+- [ ] Contato
 
 ### :::::::::::::::::::::::::::: REFERÊNCIAS ::::::::::::::::::::::::::::
 <ul>
@@ -61,4 +62,3 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
     <a href='http://www.bianchi.pro.br/edutec/qualsoft.php' target='_blank'><li>Qualidade de produtos de software</li></a>
     <a href='https://www.tutorialspoint.com/pg/software_engineering/software_requirements.htm' target='_blank'><li>Requisitos de Software</li></a>
 </ul>
-
