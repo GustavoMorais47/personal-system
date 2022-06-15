@@ -43,7 +43,10 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 #### Requisitos Não Funcionais
 
 <ul>
-
+    <li>O sistema deverá ter boa usabilidade assim facilitando a interação e o entendimento.</li>
+    <li>O sistema deverá ter uma boa confiabilidade apresentando baixissímas taxas de apresentar incoerências.</li>
+    <li>O sistema deverá apresentar bom desempenho a fim de ser responsivo e com alto desempenhos.</li>
+    <li>O sistema deverá apresentar uma boa portabilidade entre sistemas.</li>
 </ul>
 
 ### :::::::::::::::::::::::::::: MÓDULOS ::::::::::::::::::::::::::::
