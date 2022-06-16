@@ -1,11 +1,10 @@
-## :::::::::::::::::::::::::::: SOBRE ::::::::::::::::::::::::::::
+## :::::::::::::::::::::::::::::::::::::::::::::::::::::::: SOBRE ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<p>:information_source: O Personal System é uma plataforma web que possui
-como objetivo conter as funções e atividades realizadas no dia a dia pelo usuário.</p>
+<p>:information_source: O Personal System é uma plataforma web que possui como objetivo conter as funções e atividades realizadas no dia a dia pelo usuário.</p>
 
 <p>:exclamation: Sistema desenvolvido por estudantes!</p>
 
-### :::::::::::::::::::::::::::: SUMÁRIO ::::::::::::::::::::::::::::
+### :::::::::::::::::::::::::::::::::::::::::::::::::::::::: SUMÁRIO ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 <ol>
     <a href='https://github.com/GustavoMorais47/personal-system#-sobre-'><li>Sobre</li></a>
@@ -17,7 +16,7 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
     <a href='https://github.com/GustavoMorais47/personal-system#-referências-'><li>Referências</li></a>
 </ol>
 
-### :::::::::::::::::::::::::::: LINGUAGENS, FRAMEWORKS E BIBLIOTECAS ::::::::::::::::::::::::::::
+### :::::::::::::::::::::::::::::::::::::::::::::::::::::::: LINGUAGENS, FRAMEWORKS E BIBLIOTECAS ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #### Liguagens
 <ul>
@@ -36,12 +35,12 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 
 </ul>
 
-### Bibliotecas
+#### Bibliotecas
 <ul>
     <li>React</li>
 </ul>
 
-### :::::::::::::::::::::::::::: QUALIDADE ::::::::::::::::::::::::::::
+### :::::::::::::::::::::::::::::::::::::::::::::::::::::::: QUALIDADE ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #### Características
 
@@ -60,7 +59,7 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
     <li>Jest</li>
 </ul>
 
-### :::::::::::::::::::::::::::: REQUISITOS ::::::::::::::::::::::::::::
+### :::::::::::::::::::::::::::::::::::::::::::::::::::::::: REQUISITOS ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 <p>Os requisitos de software são descrição dos recursos e funcionalidades do sistema alvo. Requisitos transmitir as expectativas dos usuários do produto de software. Os requisitos podem ser evidentes ou escondidas, conhecidas ou desconhecidas, esperado ou inesperado do cliente do ponto de vista.</p>
 
 #### Requisitos Funcionais
@@ -82,7 +81,7 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
     <li>O sistema deverá apresentar uma boa portabilidade entre sistemas.</li>
 </ul>
 
-### :::::::::::::::::::::::::::: MÓDULOS ::::::::::::::::::::::::::::
+### :::::::::::::::::::::::::::::::::::::::::::::::::::::::: MÓDULOS ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 <p>Módulo é a parte do sistema responsável por uma tarefa bem definida e que pode ser acoplado a um sistema para permitir executar a tarefa disponibilizada pelo módulo.</p>
 
 - [ ] Customização
@@ -91,7 +90,7 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 - [ ] Gerenciamento de Automóveis
 - [ ] Contato
 
-### :::::::::::::::::::::::::::: REFERÊNCIAS ::::::::::::::::::::::::::::
+### :::::::::::::::::::::::::::::::::::::::::::::::::::::::: REFERÊNCIAS ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 <ul>
     <a href='https://github.com/ikatyang/emoji-cheat-sheet'><li>Emojis</li></a>
     <a href='https://blog.da2k.com.br/2015/02/08/aprenda-markdown/'><li>Markdown</li></a>
