@@ -2,6 +2,7 @@
 
 <p>:information_source: O Personal System é uma plataforma web que possui
 como objetivo conter as funções e atividades realizadas no dia a dia pelo usuário.</p>
+
 <p>:exclamation: Sistema desenvolvido por estudantes!</p>
 
 ### :::::::::::::::::::::::::::: SUMÁRIO ::::::::::::::::::::::::::::
@@ -10,10 +11,31 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
     <a href='https://github.com/GustavoMorais47/personal-system#-sobre-'><li>Sobre</li></a>
     <a href='https://github.com/GustavoMorais47/personal-system#-sumário-'><li>Sumário</li></a>
     <a href='https://github.com/GustavoMorais47/personal-system#-qualidade-'><li>Qualidade</li></a>
+    <a href='https://github.com/GustavoMorais47/personal-system#-qualidade-'><li>Qualidade</li></a>
     <a href='https://github.com/GustavoMorais47/personal-system#-requisitos-'><li>Requisitos</li></a>
     <a href='https://github.com/GustavoMorais47/personal-system#-módulos-'><li>Módulos</li></a>
     <a href='https://github.com/GustavoMorais47/personal-system#-referências-'><li>Referências</li></a>
 </ol>
+
+### :::::::::::::::::::::::::::: LINGUAGENS, FRAMEWORKS E BIBLIOTECAS ::::::::::::::::::::::::::::
+
+#### Liguagens
+<ul>
+    <li>Front-end</li>
+        <li>JavaScript</li>
+    <li>Back-end</li>
+        <li>Java</li>
+</ul>
+
+### Bibliotecas
+<ul>
+    <li>React</li>
+</ul>
+
+#### Frameworks
+<ul>
+
+</ul>
 
 ### :::::::::::::::::::::::::::: QUALIDADE ::::::::::::::::::::::::::::
 
@@ -25,6 +47,13 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
     <li>Eficiência</li>
     <li>Manutenibilidade</li>
     <li>Portabilidade</li>
+</ul>
+
+#### Testes
+
+<ul>
+    <li>Desenvolvimento Orientado a Testes (TDD)</li>
+    <li>Jest</li>
 </ul>
 
 ### :::::::::::::::::::::::::::: REQUISITOS ::::::::::::::::::::::::::::
