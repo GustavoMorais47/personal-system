@@ -1,11 +1,9 @@
 ## :::::::::::::::::::::::::::::::::::::::::::::::::::::::: SOBRE ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 <p>:information_source: O Personal System é uma plataforma web que possui como objetivo conter as funções e atividades realizadas no dia a dia pelo usuário.</p>
 
 <p>:exclamation: Sistema desenvolvido por estudantes!</p>
 
 ### :::::::::::::::::::::::::::::::::::::::::::::::::::::::: SUMÁRIO ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 <ol>
     <a href='https://github.com/GustavoMorais47/personal-system#-sobre-'><li>Sobre</li></a>
     <a href='https://github.com/GustavoMorais47/personal-system#-sumário-'><li>Sumário</li></a>
@@ -16,8 +14,7 @@
     <a href='https://github.com/GustavoMorais47/personal-system#-referências-'><li>Referências</li></a>
 </ol>
 
-### :::::::::::::::::::::::::::::::::::::::::::::::::::::::: LINGUAGENS, FRAMEWORKS E BIBLIOTECAS ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
+### :::::::::::::::::::::::::::: LINGUAGENS, FRAMEWORKS E BIBLIOTECAS ::::::::::::::::::::::::::::
 #### Liguagens
 <ul>
     <li>Front-end</li>
@@ -41,9 +38,7 @@
 </ul>
 
 ### :::::::::::::::::::::::::::::::::::::::::::::::::::::::: QUALIDADE ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 #### Características
-
 <ul>
     <li>Confiabilidade</li>
     <li>Usabilidade</li>
@@ -53,7 +48,6 @@
 </ul>
 
 #### Testes
-
 <ul>
     <li>Desenvolvimento Orientado a Testes (TDD)</li>
     <li>Jest</li>
@@ -63,7 +57,6 @@
 <p>Os requisitos de software são descrição dos recursos e funcionalidades do sistema alvo. Requisitos transmitir as expectativas dos usuários do produto de software. Os requisitos podem ser evidentes ou escondidas, conhecidas ou desconhecidas, esperado ou inesperado do cliente do ponto de vista.</p>
 
 #### Requisitos Funcionais
-
 <ul>
     <li>O sistema deverá ser capaz de surportar diversas funcionalidades.</li>
     <li>O sistema deverá oferecer a possibilidade, dentro de cada módulo, de consultar consultar os dados registrados no banco de dados.</li>
@@ -73,7 +66,6 @@
 </ul>
 
 #### Requisitos Não Funcionais
-
 <ul>
     <li>O sistema deverá ter boa usabilidade assim facilitando a interação e o entendimento.</li>
     <li>O sistema deverá ter uma boa confiabilidade apresentando baixissímas taxas de apresentar incoerências.</li>
