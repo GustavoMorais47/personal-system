@@ -10,7 +10,7 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 <ol>
     <a href='https://github.com/GustavoMorais47/personal-system#-sobre-'><li>Sobre</li></a>
     <a href='https://github.com/GustavoMorais47/personal-system#-sumário-'><li>Sumário</li></a>
-    <a href='https://github.com/GustavoMorais47/personal-system#-qualidade-'><li>Qualidade</li></a>
+    <a href='https://github.com/GustavoMorais47/personal-system#-linguagens-frameworks-e-bibliotecas-'><li>Linguagens, Frameworks e Bibliotecas</li></a>
     <a href='https://github.com/GustavoMorais47/personal-system#-qualidade-'><li>Qualidade</li></a>
     <a href='https://github.com/GustavoMorais47/personal-system#-requisitos-'><li>Requisitos</li></a>
     <a href='https://github.com/GustavoMorais47/personal-system#-módulos-'><li>Módulos</li></a>
@@ -22,19 +22,23 @@ como objetivo conter as funções e atividades realizadas no dia a dia pelo usu�
 #### Liguagens
 <ul>
     <li>Front-end</li>
-        <li>JavaScript</li>
+        <ul>
+            <li>JavaScript</li>
+        </ul>        
     <li>Back-end</li>
-        <li>Java</li>
-</ul>
-
-### Bibliotecas
-<ul>
-    <li>React</li>
+        <ul>
+            <li>Java</li>
+        </ul>
 </ul>
 
 #### Frameworks
 <ul>
 
+</ul>
+
+### Bibliotecas
+<ul>
+    <li>React</li>
 </ul>
 
 ### :::::::::::::::::::::::::::: QUALIDADE ::::::::::::::::::::::::::::
