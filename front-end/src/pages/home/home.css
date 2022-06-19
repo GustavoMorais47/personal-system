@@ -7,12 +7,6 @@
 .section-01{
     display: flex;
 }
-.ativado{
-    display: none;
-}
-.desativado{
-    display: flex;
-}
 .MenuTopo{
     width: 100%;
     height: 50px;
@@ -31,7 +25,7 @@
 }
 .MenuIcon:hover{
     color: white;
-    background-color: #333D49;
+    background-color: #3E4B59;
 }
 .MenuUser{
     font-size: 15px;
@@ -46,7 +40,7 @@
 }
 .MenuUser:hover{
     color: white;
-    background-color: #333D49;
+    background-color: #3E4B59;
 }
 .MenuLogo{
     position: absolute;
@@ -59,22 +53,58 @@
     padding-bottom: 10px;
 }
 .MenuLogo:hover{
-    background-color: #333D49;
+    background-color: 3E4B59;
 }
 .Logo{
     width: 200px;
 }
 .MenuLateral{
     width: 300px;
+    display: none;
     background-color: #252F3B;
 }
-.MenuLateral ul a li{
+.MenuLateral-Ativa{
+    display: block;
+}
+.MenuLateral .Cat{
     color: #ABBCCC;
     padding: 10px;
     text-align: center;
     text-decoration: none;
 }
-.MenuLateral ul li:hover{
+.MenuLateral .Cat:hover{
     color: white;
+    background-color: #3E4B59;
+    text-decoration: none;
+    cursor: pointer;
+}
+.MenuLateral .Subcat{
+    color: #ABBCCC;
     background-color: #333D49;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+.MenuLateral .Subcat:hover{
+    color: white;
+    background-color: #3E4B59;
+    padding: 10px;
+    text-decoration: none;
+}
+.MenuLateral .SubCategoria{
+    display: none;
+}
+.MenuLateral .SubCategoria-Ativa{
+    display: block;
+}
+.MenuLateralLogo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-bottom: 1px solid #3E4B59;
+}
+.Logo02{
+    width: 150px;
+    padding-top: 25px;
+    padding-bottom: 15px;
 }
