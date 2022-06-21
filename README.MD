@@ -90,5 +90,5 @@
     <a href='https://www.tutorialspoint.com/pg/software_engineering/software_requirements.htm'><li>Requisitos de Software</li></a>
     <a href='https://www.youtube.com/watch?v=nEohtTFeNsM'><li>Youtube: Desenvolvimento Guiado por Testes: PORQUE e COMO aplicar</li></a>
     <a href='https://www.npmjs.com/package/react-router-dom'><li>React Router DOM</li></a>
-    <a href='https://www.w3schools.com/charsets/ref_utf_punctuation.asp'><li>HTML Symbols</li></a>
+    <a href='https://react-icons.github.io/react-icons'><li>React Icons</li></a>
 </ul>
